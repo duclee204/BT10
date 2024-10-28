@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Orange Juice",
+      "brand": "Lauren's",
+      "price": 149,
+      "quantity": 1,
+      "barcode": "8938502210011",
+      "image": "https://example.com/images/orange_juice.png"
+    },
+    {
+      "id": 2,
+      "name": "Skimmed Milk",
+      "brand": "Baskin's",
+      "price": 129,
+      "quantity": 1,
+      "barcode": "8938502210028",
+      "image": "https://example.com/images/skimmed_milk.png"
+    },
+    {
+      "id": 3,
+      "name": "Aloe Vera Lotion",
+      "brand": "Marley's",
+      "price": 1249,
+      "quantity": 1,
+      "barcode": "8938502210035",
+      "image": "https://example.com/images/aloe_vera_lotion.png"
+    },
+    {
+      "id": 4,
+      "name": "Green Tea",
+      "brand": "Nature's",
+      "price": 99,
+      "quantity": 1,
+      "barcode": "8938502210042",
+      "image": "https://example.com/images/green_tea.png"
+    },
+    {
+      "id": 5,
+      "name": "Face Wash",
+      "brand": "PureSkin",
+      "price": 199,
+      "quantity": 1,
+      "barcode": "8938502210059",
+      "image": "https://example.com/images/face_wash.png"
+    },
+    {
+      "id": 6,
+      "name": "Organic Honey",
+      "brand": "BeeKind",
+      "price": 349,
+      "quantity": 1,
+      "barcode": "8938502210066",
+      "image": "https://example.com/images/organic_honey.png"
+    },
+    {
+      "id": 7,
+      "name": "Shampoo & Conditioner",
+      "brand": "HerbalEssence",
+      "price": 499,
+      "quantity": 1,
+      "barcode": "8938502210073",
+      "image": "https://example.com/images/shampoo_conditioner.png"
+    },
+    {
+      "id": 8,
+      "name": "Dark Chocolate",
+      "brand": "ChocoDelight",
+      "price": 249,
+      "quantity": 1,
+      "barcode": "8938502210080",
+      "image": "https://example.com/images/dark_chocolate.png"
+    },
+    {
+      "id": 9,
+      "name": "Granola Bars",
+      "brand": "HealthyBite",
+      "price": 99,
+      "quantity": 1,
+      "barcode": "8938502210097",
+      "image": "https://example.com/images/granola_bars.png"
+    },
+    {
+      "id": 10,
+      "name": "Almond Milk",
+      "brand": "NutriMilk",
+      "price": 199,
+      "quantity": 1,
+      "barcode": "8938502210103",
+      "image": "https://example.com/images/almond_milk.png"
+    }
+  ]
+  
